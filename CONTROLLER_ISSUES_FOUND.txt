@@ -1,0 +1,24 @@
+# Arth CONTROLL ALL ISSUES
+
+ALL ISSUES ADDED
+
+MANUAL Review
+Reviewed UPTO LINE NUMBER - 
+-------------
+
+MINORSS
+____________________
+Automated Testing
+---------------
+Majorsss 
+VERY VERY IMPORTANT
+
+
+
+
+
+Minors
+2. ArthController.controllerAddress (contracts/Arth/flat_ArthControl.sol#934) should be constant
+
+
+
